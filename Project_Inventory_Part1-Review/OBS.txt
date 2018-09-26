@@ -1,0 +1,3 @@
+Projeto Inventory, antes de substituir o uso da Text view para List View
+
+Só guardei para referência futura.

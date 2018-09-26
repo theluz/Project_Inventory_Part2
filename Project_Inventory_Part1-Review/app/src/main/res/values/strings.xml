@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Inventory_Part1</string>
+    <string name="category_product">Product</string>
+    <string name="product_title">Title</string>
+    <string name="type_book">Book</string>
+    <string name="type_magazine">Magazine</string>
+    <string name="type_other">Other</string>
+    <string name="product_type">Type</string>
+    <string name="category_price">Price</string>
+    <string name="hint_price">0,00</string>
+    <string name="category_quantity">Quantity</string>
+    <string name="hint_quantity">unit</string>
+    <string name="category_supplier">Supplier</string>
+    <string name="hint_supplier">ex: Yellow Bookstore</string>
+    <string name="hint_supplier_phone">Phone</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_delete_all">Delete All</string>
+    <string name="empty_view_title_text">What do you need?</string>
+    <string name="empty_view_subtitle_text">Books, lots of books...</string>
+    <string name="title_add_item">Add Item</string>
+    <string name="title_edit_item">Edit Item</string>
+    <string name="title_delete_item">Delete Item</string>
+    <string name="item_insert_failed">Item Insert Failed</string>
+    <string name="item_insert_success">Item Added</string>
+    <string name="item_update_failed">Item Update Failed</string>
+    <string name="item_update_success">Item Updated</string>
+    <string name="item_insert_blank">No Item Added</string>
+    <string name="item_edit_discard">Discard changes and quit editing?</string>
+    <string name="item_edit_discard_negative">Keep Editing</string>
+    <string name="item_edit_discard_positive">Discard</string>
+    <string name="item_delete_fail">No items deleted</string>
+    <string name="item_delete_success">Item(s) deleted</string>
+    <string name="item_delete_editor_dialog">Delete this Item</string>
+    <string name="item_delete">Delete</string>
+    <string name="item_cancel">Cancel</string>
+    <string name="item_delete_database">All Items deleted from Database</string>
+    <string name="unknown_supplier">Unknown Supplier</string>
+    <string name="action_sell_button">Sell Item</string>
+    <string name="action_sell_toast">No more items</string>
+    <string name="action_phone_contact">Supplier</string>
+
+</resources>
